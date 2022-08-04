@@ -18,3 +18,7 @@ Approach Two:
 6. select the play button for the test called 'GetUpside', select your agent and agent device (your phone should show up here), select Run
 7. go to Reports to see the result of the test
 
+
+Additional file contents (not code related):
+* GetUpside-Test-Report-4-8-2022+... is a sample of what the report results look like
+* Upside.xlsx a small sample of test cases in written form
